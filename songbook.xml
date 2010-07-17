@@ -2,5 +2,6 @@
   <mime-type type="text/x-songbook">
     <comment>Songbook Source Song</comment>
     <glob pattern="*.sg"/>
+    <glob pattern="*.sbd"/>
   </mime-type>
 </mime-info>
