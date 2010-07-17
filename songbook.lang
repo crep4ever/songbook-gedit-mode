@@ -72,17 +72,19 @@
 
         <context id="keywords" style-ref="keyword">
           <prefix>\\</prefix>
-          <keyword>songcolumns</keyword>
-          <keyword>capo</keyword>
-          <keyword>cover</keyword>      
+          <keyword>gtab</keyword>
+          <keyword>echo</keyword>
+          <keyword>rep</keyword>
           <keyword>lilypond</keyword>
           <keyword>image</keyword>
+          <keyword>songcolumns</keyword>
+          <keyword>cover</keyword>      
+          <keyword>capo</keyword>
+          <keyword>nolyrics</keyword>
           <keyword>musicnote</keyword>
           <keyword>textnote</keyword>
-          <keyword>gtab</keyword>
-          <keyword>rep</keyword>
-          <keyword>echo</keyword>
           <keyword>dots</keyword>
+          <keyword>emph</keyword>
         </context>
 
         <context id="environment-names" style-ref="environment-name">
