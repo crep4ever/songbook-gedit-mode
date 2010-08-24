@@ -95,6 +95,8 @@
           <keyword>endchorus</keyword>
           <keyword>beginsong</keyword>
           <keyword>endsong</keyword>
+          <keyword>beginscripture</keyword>
+          <keyword>endscripture</keyword>
           <keyword>begin</keyword>
           <keyword>end</keyword>
         </context>
