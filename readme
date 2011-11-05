@@ -2,7 +2,7 @@ This gedit plugin provides a highlight syntax mode for the song files ".sg"
 of the Patacrep Songbook available at: http://www.patacrep.com
 
 This package provides two files songbook.lang and songbook.xml .
-Copy songbook.lang in ~/.local/share/gtksourceview-2.0/language-specs
+Copy songbook.lang in ~/.local/share/gtksourceview-3.0/language-specs
 and  songbook.xml  in ~/.local/share/mime/packages
 
 Make the folders if they do not already exist.
