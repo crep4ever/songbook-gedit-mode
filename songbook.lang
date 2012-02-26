@@ -86,6 +86,13 @@
           <keyword>textnote</keyword>
           <keyword>dots</keyword>
           <keyword>emph</keyword>
+          <keyword>Intro</keyword>
+          <keyword>Outro</keyword>
+          <keyword>Chorus</keyword>
+          <keyword>Verse</keyword>
+          <keyword>Rythm</keyword>
+          <keyword>Pattern</keyword>
+          <keyword>Bridge</keyword>
         </context>
 
         <context id="environment-names" style-ref="environment-name">
